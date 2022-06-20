@@ -20,5 +20,3 @@ try:
         raise ValueError
 except:
     print("Car number invalid!")
-
-print(is_valid)
